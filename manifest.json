@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "fpscounter",
   "version": "0",
-  "description": "Show FPS Counter",
+  "description": "Show FPS counter",
   "icons": {
     "128": "128.png"
   },
