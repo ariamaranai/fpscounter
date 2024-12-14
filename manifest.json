@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "fpscounter",
+  "version": "0",
+  "description": "Show FPS Counter",
+  "icons": {
+    "128": "128.png"
+  },
+  "permissions": [
+    "debugger"
+  ],
+  "background": {
+    "service_worker": "bg.js"
+  },
+  "action": {}
+}
