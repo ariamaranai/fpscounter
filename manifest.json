@@ -7,7 +7,8 @@
     "128": "128.png"
   },
   "permissions": [
-    "debugger"
+    "debugger",
+    "tabs"
   ],
   "background": {
     "service_worker": "bg.js"
