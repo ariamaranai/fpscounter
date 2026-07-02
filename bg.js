@@ -8,6 +8,6 @@ chrome.action.onClicked.addListener(tab => {
           chrome.debugger.sendCommand(target, "DOM.enable"),
           chrome.debugger.sendCommand(target, "Overlay.enable"),
           chrome.debugger.sendCommand(target, "Overlay.setShowFPSCounter", { show: !0 })
-        )).catch(() => 0)
+        )).catch(Function.prototype)
   );
 });
